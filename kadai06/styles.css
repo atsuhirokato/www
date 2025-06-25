@@ -1,0 +1,9 @@
+@charset  "UTF-8";
+h1{color: white;
+     text-align: center;}
+h4{color: white;
+    text-align: center;}
+header{background-color: black;}
+.product-section{width: 600px;
+    border: solid thin lightgray;}
+    footer{background-color: lightgray;}

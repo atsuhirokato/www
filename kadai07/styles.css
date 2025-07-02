@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{marigin:0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+    background-color: #;
+}
+h1{text-align: center;
+color: white;}
+p{color: white;}
+header{background-color: rgb(50, 50, 128);}
+.header_text{text-align: center;}
